@@ -20,22 +20,22 @@ I enjoy solving real-world problems, designing reliable systems, design database
   5. Developed attendance flow: CheckIn, CheckOut, shift validation, late/on-time calculation
   *Main Features*
   - Facial Recognition Attendance
-      Employees check-in/check-out using face descriptors
-      Update time and check in status with the time they check-in/check-out
-      Let employee update their face data and the system save it to database if they haven't had face data
+      + Employees check-in/check-out using face descriptors
+      + Update time and check in status with the time they check-in/check-out
+      + Let employee update their face data and the system save it to database if they haven't had face data
   - Role-Based Authentication
-      Admin: System-level management
-      Manager: Approve leave, view attendance reports
-      Employee: View schedule, request leave, check-in/out
+      + Admin: System-level management
+      + Manager: Approve leave, view attendance reports
+      + Employee: View schedule, request leave, check-in/out
   - Attendance & Shift Management
-      SQL triggers enforce business rules
-      Prevent check-in for employees outside assigned shift
+      + SQL triggers enforce business rules
+      + Prevent check-in for employees outside assigned shift
   - Leave Management
-      Employees submit leave requests
-      Auto-populates attendance during approved leave
-      Manager/Admin approve or reject requests
+      + Employees submit leave requests
+      + Auto-populates attendance during approved leave
+      + Manager/Admin approve or reject requests
   - Employee Management
-      Manage employee profiles
+      + Manage employee profiles
 - Repository: https://github.com/NhanNW/Attendance-FaceRecognition-System
 
 2. Library Management System — SQL Server + ASP.NET MVC
@@ -48,16 +48,16 @@ I enjoy solving real-world problems, designing reliable systems, design database
   3. Implemented many SQL triggers to enforce real-world library rules
   *Key Modules*
   - Users
-      Student / Teacher / Librarian
-      Role-based permissions
+      + Student / Teacher / Librarian
+      + Role-based permissions
   - Books & Categories
-      TotalCopies & AvailableCopies auto-updated
+      + TotalCopies & AvailableCopies auto-updated
   - Borrowing / BorrowDetails / BorrowRequest
-      Borrow request workflow
-      Due date validation
-      Auto-update borrowing statuses
+      + Borrow request workflow
+      + Due date validation
+      + Auto-update borrowing statuses
   - Reservations
-      Trigger-based auto reservation when no copies available
+      + Trigger-based auto reservation when no copies available
   - Business Logic Implemented (via SQL Triggers)
       + Only librarians can approve borrowing or create fines
       + Auto-increase available copies when books are returned
@@ -69,16 +69,16 @@ I enjoy solving real-world problems, designing reliable systems, design database
 
 *Technical skills*
 - Backend
-  Node.js
-  ASP.NET MVC
-  Rest APIS
+  + Node.js
+  + ASP.NET MVC
+  + Rest APIS
 - Database
-    SQL Server (proficient)
-    Database normalization (3NF / BCNF)
-    ERD design
+    + SQL Server (proficient)
+    + Database normalization (3NF / BCNF)
+    + ERD design
 - Core Knowledge
-    Business logic implementation
-    System design fundamentals
+    + Business logic implementation
+    + System design fundamentals
 
 *Why Choose Me* 
   + I have a strong willingness to learn quickly and adapt to new requirements.
