@@ -36,7 +36,7 @@ I enjoy solving real-world problems, designing reliable systems, design database
       Manager/Admin approve or reject requests
   - Employee Management
       Manage employee profiles
-Repository: https://github.com/NhanNW/Attendance-FaceRecognition-System
+- Repository: https://github.com/NhanNW/Attendance-FaceRecognition-System
 
 2. Library Management System — SQL Server + ASP.NET MVC
 - Tech Stack: SQL Server - ASP.NET MVC - Triggers
@@ -59,13 +59,13 @@ Repository: https://github.com/NhanNW/Attendance-FaceRecognition-System
   - Reservations
       Trigger-based auto reservation when no copies available
   - Business Logic Implemented (via SQL Triggers)
-      Only librarians can approve borrowing or create fines
-      Auto-increase available copies when books are returned
-      Limit 5 books per BorrowID
-      Prevent borrowing more than available copies
-      Return date cannot exceed current date
-      Auto-update borrow status
-Repository: https://github.com/NhanNW/Projects-Database
+      + Only librarians can approve borrowing or create fines
+      + Auto-increase available copies when books are returned
+      + Limit 5 books per BorrowID
+      + Prevent borrowing more than available copies
+      + Return date cannot exceed current date
+      + Auto-update borrow status
+- Repository: https://github.com/NhanNW/Projects-Database
 
 *Technical skills*
 - Backend
