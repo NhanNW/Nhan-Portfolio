@@ -1,10 +1,10 @@
 *Nhan Ao Thanh - Portfolio*
-* Intern Backend | Database Designer | SQL server | Business Analyst*
+* Intern Backend | Database Designer | SQL server | Business Analyst | Software Testing *
 Email: aothanhnhan4@gmail.com
 Github: https://github.com/NhanNW
 
 *About Me*
-I would love to be Intern in Database Developer / Business Analyst with my skills in SQL Server, database design, stored procedures, business logic implementation. 
+I would love to be Intern in Database Developer / Business Analyst / Software Testing with my skills in SQL Server, database design, stored procedures, business logic implementation. 
 I enjoy solving real-world problems, designing reliable systems, design databases, ensuring data integrit. 
 
 *Projects*
