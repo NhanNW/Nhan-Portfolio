@@ -9,7 +9,6 @@ I enjoy solving real-world problems, designing reliable systems, design database
 
 *Projects*
 1. Attendance Face Recognition System
-- Status: 70% - 80% completed
 - Tech Stack: Node.js - Express - SQL Server - face-api.js - REST APIs
 - A system that manages employee attendance using facial recognition technology. Built for organizations that require automated timekeeping with security, accuracy, and shift-based rules.
   *My Responsibilities*
